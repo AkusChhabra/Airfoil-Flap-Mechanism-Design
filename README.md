@@ -1,6 +1,9 @@
 <div>
   <h1>
-    Airfoil Flap Mechanism Design Project
+    Airfoil Flap Mechanism Design Project 
+    <a href="https://www.mathworks.com/products/matlab.html">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="28" />
+    </a>
   </h1>
   <p> The objective of this project was to design a mechanism to deploy flaps for an aircraft. To simplify modelling, the model only included the wing and flaps. Engineering analysis was performed on a single-slotted 
     flap mechanism by incorporating engineering design techniques. The flap mechanism was analyzed at three different angles that include 0%, 50%, and 100% flaps. </p>&nbsp
